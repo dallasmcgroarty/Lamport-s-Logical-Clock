@@ -2,7 +2,6 @@
 program that simulates lamport's logical clock
 
 Group-members:
-
 Dallas McGroarty, email -> dallasmcgroarty@csu.fullerton.edu 
 -- wrote all code except for verify.h
 Brandon Hawkinson, email -> b.hawkinson245@csu.fullerton.edu, github-> github.com/Hawkinsonb 
